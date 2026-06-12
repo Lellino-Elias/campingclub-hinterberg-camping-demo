@@ -227,9 +227,9 @@ export default function Booking() {
                 <svg width="15" height="15" viewBox="0 0 16 16" className="shrink-0 text-gold"><path d="M3 3.5c0 5 4.5 9.5 9.5 9.5l1.5-2.5-3-1.5-1.5 1.5C8 9.5 6.5 8 5.5 6.5L7 5 5.5 2 3 3.5Z" fill="none" stroke="currentColor" strokeWidth="1.2" strokeLinejoin="round" /></svg>
                 {campsite.kontakt.tel}
               </a>
-              <a href={`mailto:${campsite.kontakt.mail}`} className="-mt-3 flex items-center gap-2.5 break-all text-sm text-ink/85 transition-colors hover:text-gold">
+              <a href={`mailto:${campsite.kontakt.mail}`} className="-mt-3 flex items-center gap-2.5 text-sm text-ink/85 transition-colors hover:text-gold">
                 <svg width="15" height="15" viewBox="0 0 16 16" className="shrink-0 text-gold"><path d="M2 4.5h12v7H2v-7Zm0 .5 6 4.5L14 5" fill="none" stroke="currentColor" strokeWidth="1.2" strokeLinejoin="round" /></svg>
-                {campsite.kontakt.mail}
+                <span className="min-w-0 [overflow-wrap:anywhere]">{campsite.kontakt.mail}</span>
               </a>
             </div>
             </div>
