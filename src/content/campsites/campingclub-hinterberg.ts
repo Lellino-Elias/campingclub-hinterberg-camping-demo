@@ -33,7 +33,7 @@ const campingclubHinterberg: CampsiteConfig = {
     {
       title: "Stellplätze mit Strom",
       text: "Ebene Stellplätze mit Strom für Zelt, Wohnwagen und Wohnmobil — ringsum der Blick auf die grünen Berge rund um Leoben.",
-      image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Wohnwagen und Fahrzeuge auf dem Campingclub Hinterberg" },
+      image: { src: `${IMG}/gallery-1634619977.webp`, alt: "Wohnwagen mit Sonnenvorzelt auf dem Stellplatz am Campingclub Hinterberg" },
     },
     {
       title: "Saubere Sanitäranlagen",
@@ -65,7 +65,7 @@ const campingclubHinterberg: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/activity-1cc243fb69.webp`, alt: "Sonniges Feld und weiter Himmel rund um Leoben" },
+    image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Belebter Campingclub Hinterberg mit Zelten und Caravans vor den grünen Bergen" },
     line: "Durchatmen, wo die Stadt aufhört und das Grün beginnt.",
   },
 
@@ -77,7 +77,7 @@ const campingclubHinterberg: CampsiteConfig = {
       {
         title: "Stellplätze für Wohnwagen & Wohnmobile",
         text: "Geräumige Plätze für Wohnwagen und Wohnmobile mit Stromanschluss — eben, gepflegt und mit genug Raum, um sich ein bisschen auszubreiten.",
-        image: { src: `${IMG}/gallery-1634619977.webp`, alt: "Wohnwagen mit Sonnenvorzelt auf dem Stellplatz am Campingclub Hinterberg" },
+        image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Stellplätze mit Wohnwagen auf dem Campingclub Hinterberg" },
       },
       {
         title: "Zeltwiese",
@@ -148,7 +148,6 @@ const campingclubHinterberg: CampsiteConfig = {
     moreCount: 12,
     images: [
       { src: `${IMG}/gallery-276b1bd215.webp`, alt: "Ausgebautes Oldtimer-Fahrzeug als Reisemobil am Campingclub Hinterberg" },
-      { src: `${IMG}/gallery-31c91c901c.webp`, alt: "Liebevoll gestaltete, beleuchtete Ecke am Campingplatz Hinterberg" },
       { src: `${IMG}/gallery-878535172f.webp`, alt: "Bunte Oldtimer-Reisebusse auf dem Campingclub Hinterberg vor grünen Bergen" },
     ],
   },
