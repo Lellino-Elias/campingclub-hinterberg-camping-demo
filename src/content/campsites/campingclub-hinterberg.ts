@@ -33,7 +33,7 @@ const campingclubHinterberg: CampsiteConfig = {
     {
       title: "Stellplätze mit Strom",
       text: "Ebene Stellplätze mit Strom für Zelt, Wohnwagen und Wohnmobil — ringsum der Blick auf die grünen Berge rund um Leoben.",
-      image: { src: `${IMG}/gallery-1634619977.webp`, alt: "Wohnwagen mit Vorzelt auf der Wiese am Campingclub Hinterberg" },
+      image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Wohnwagen und Fahrzeuge auf dem Campingclub Hinterberg" },
     },
     {
       title: "Saubere Sanitäranlagen",
@@ -43,7 +43,7 @@ const campingclubHinterberg: CampsiteConfig = {
     {
       title: "Mitten im Grünen",
       text: "Ein familiengeführter Platz mitten im Grünen, umrahmt von den bewaldeten Bergen rund um Leoben — ruhig und überschaubar.",
-      image: { src: `${IMG}/gallery-c80bde25f4.webp`, alt: "Campingplatz Hinterberg vor bewaldeten Bergen bei Leoben" },
+      image: { src: `${IMG}/gallery-81e42a392f.webp`, alt: "Zelt auf der sonnigen grünen Wiese am Campingclub Hinterberg" },
     },
   ],
 
@@ -77,7 +77,7 @@ const campingclubHinterberg: CampsiteConfig = {
       {
         title: "Stellplätze für Wohnwagen & Wohnmobile",
         text: "Geräumige Plätze für Wohnwagen und Wohnmobile mit Stromanschluss — eben, gepflegt und mit genug Raum, um sich ein bisschen auszubreiten.",
-        image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Wohnwagen auf einem Stellplatz am Campingclub Hinterberg" },
+        image: { src: `${IMG}/gallery-1634619977.webp`, alt: "Wohnwagen mit Sonnenvorzelt auf dem Stellplatz am Campingclub Hinterberg" },
       },
       {
         title: "Zeltwiese",
@@ -102,7 +102,7 @@ const campingclubHinterberg: CampsiteConfig = {
       {
         title: "Ruhig zwischen den Bergen",
         text: "Umgeben von grünen Bergen und Wald liegst du hier ruhig und doch nah an Leoben — ein guter Ausgangspunkt für Touren in die Region.",
-        image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Blick über den Campingplatz Hinterberg auf die Berge bei Leoben" },
+        image: { src: `${IMG}/gallery-c80bde25f4.webp`, alt: "Ruhiger Campingclub Hinterberg, eingebettet in die grünen Berge bei Leoben" },
       },
     ],
   },
@@ -147,7 +147,6 @@ const campingclubHinterberg: CampsiteConfig = {
     tag: "Mai bis Mitte September",
     moreCount: 12,
     images: [
-      { src: `${IMG}/gallery-81e42a392f.webp`, alt: "Zelt auf der grünen Wiese am Campingclub Hinterberg" },
       { src: `${IMG}/gallery-276b1bd215.webp`, alt: "Ausgebautes Oldtimer-Fahrzeug als Reisemobil am Campingclub Hinterberg" },
       { src: `${IMG}/gallery-31c91c901c.webp`, alt: "Liebevoll gestaltete, beleuchtete Ecke am Campingplatz Hinterberg" },
       { src: `${IMG}/gallery-878535172f.webp`, alt: "Bunte Oldtimer-Reisebusse auf dem Campingclub Hinterberg vor grünen Bergen" },
