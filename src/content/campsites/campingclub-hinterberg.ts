@@ -33,7 +33,7 @@ const campingclubHinterberg: CampsiteConfig = {
     {
       title: "Stellplätze mit Strom",
       text: "Ebene Stellplätze mit Strom für Zelt, Wohnwagen und Wohnmobil — ringsum der Blick auf die grünen Berge rund um Leoben.",
-      image: { src: `${IMG}/gallery-1634619977.webp`, alt: "Wohnwagen mit Sonnenvorzelt auf dem Stellplatz am Campingclub Hinterberg" },
+      image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Wohnwagen und Reisefahrzeuge auf dem Stellplatz am Campingclub Hinterberg" },
     },
     {
       title: "Saubere Sanitäranlagen",
@@ -77,7 +77,7 @@ const campingclubHinterberg: CampsiteConfig = {
       {
         title: "Stellplätze für Wohnwagen & Wohnmobile",
         text: "Geräumige Plätze für Wohnwagen und Wohnmobile mit Stromanschluss — eben, gepflegt und mit genug Raum, um sich ein bisschen auszubreiten.",
-        image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Stellplätze mit Wohnwagen auf dem Campingclub Hinterberg" },
+        image: { src: `${IMG}/gallery-1634619977.webp`, alt: "Sonniger Wohnwagen mit Vorzelt auf dem Stellplatz am Campingclub Hinterberg" },
       },
       {
         title: "Zeltwiese",
