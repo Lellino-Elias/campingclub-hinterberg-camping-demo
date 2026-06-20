@@ -37,8 +37,8 @@ const campingclubHinterberg: CampsiteConfig = {
     },
     {
       title: "Familiäre Atmosphäre",
-      text: "Seit Generationen familiengeführt — der persönliche Charakter des Platzes zeigt sich in liebevoll gestalteten Details und einer herzlichen, entspannten Atmosphäre.",
-      image: { src: `${IMG}/gallery-31c91c901c.webp`, alt: "Dekoratives Abend-Highlight am Campingclub Hinterberg: beleuchtete Skulptur als persönliche Geste der Gastgeber" },
+      text: "Seit Generationen familiengeführt — der persönliche Charakter des Platzes zeigt sich in der herzlichen, entspannten Atmosphäre und im lebendigen Miteinander der Gäste.",
+      image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Belebter Campingclub Hinterberg mit Zelten, Wohnwagen und Gästen auf der grünen Wiese vor den Bergen" },
     },
     {
       title: "Mitten im Grünen",
