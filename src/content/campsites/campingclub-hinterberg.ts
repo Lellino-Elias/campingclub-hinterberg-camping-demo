@@ -36,9 +36,9 @@ const campingclubHinterberg: CampsiteConfig = {
       image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Wohnwagen und Reisefahrzeuge auf dem Stellplatz am Campingclub Hinterberg" },
     },
     {
-      title: "Saubere Sanitäranlagen",
-      text: "Saubere, moderne Sanitäranlagen mit Warmwasser, Duschen und Toiletten — fair gehalten und immer gepflegt.",
-      image: { src: `${IMG}/gallery-899ecddefe.webp`, alt: "Modernes Sanitärgebäude mit Waschbecken am Campingclub Hinterberg" },
+      title: "Hunde willkommen",
+      text: "Vierbeiner sind ausdrücklich willkommen — und haben am Platz sogar ihr eigenes Gassi-Revier. Kinder bis 15 Jahre übernachten ohnehin ohne Aufpreis.",
+      image: { src: `${IMG}/activity-1cc243fb69.webp`, alt: "Saftig grüne Sommerwiese und Felder rund um den Campingclub Hinterberg — ideales Gassi-Revier für Hunde" },
     },
     {
       title: "Mitten im Grünen",
@@ -83,11 +83,6 @@ const campingclubHinterberg: CampsiteConfig = {
         title: "Zeltwiese",
         text: "Einfach, aber gemütlich: Stell dein eigenes Zelt auf die grüne Wiese und genieße eine typische Camping-Erfahrung mitten in der Natur.",
         image: { src: `${IMG}/gallery-05035cfcc9.webp`, alt: "Zelte auf der Wiese am Campingclub Hinterberg" },
-      },
-      {
-        title: "Warmwasser & Waschräume",
-        text: "Helle Waschräume mit Warmwasser, Duschen und Toiletten — sauber, gepflegt und mit ein paar liebevollen Details ausgestattet.",
-        image: { src: `${IMG}/gallery-8a5a68ee0f.webp`, alt: "Waschraum mit Waschbecken am Campingclub Hinterberg" },
       },
       {
         title: "Alternative Reisefahrzeuge willkommen",
