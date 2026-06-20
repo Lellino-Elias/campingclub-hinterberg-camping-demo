@@ -31,14 +31,14 @@ const campingclubHinterberg: CampsiteConfig = {
 
   pillars: [
     {
-      title: "Stellplätze mit Strom",
-      text: "Ebene Stellplätze mit Strom für Zelt, Wohnwagen und Wohnmobil — ringsum der Blick auf die grünen Berge rund um Leoben.",
-      image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Wohnwagen und Reisefahrzeuge auf dem Stellplatz am Campingclub Hinterberg" },
+      title: "Saubere Sanitäranlagen",
+      text: "Saubere Sanitäranlagen mit heißem Wasser, Duschen und Toiletten — gepflegt und jederzeit geöffnet für alle Gäste am Platz.",
+      image: { src: `${IMG}/gallery-8a5a68ee0f.webp`, alt: "Gepflegte Sanitäranlage mit Waschbecken, Spiegel und Duschkabinen am Campingclub Hinterberg" },
     },
     {
-      title: "Hunde willkommen",
-      text: "Vierbeiner sind ausdrücklich willkommen — und haben am Platz sogar ihr eigenes Gassi-Revier. Kinder bis 15 Jahre übernachten ohnehin ohne Aufpreis.",
-      image: { src: `${IMG}/activity-1cc243fb69.webp`, alt: "Saftig grüne Sommerwiese und Felder rund um den Campingclub Hinterberg — ideales Gassi-Revier für Hunde" },
+      title: "Familiäre Atmosphäre",
+      text: "Seit Generationen familiengeführt — der persönliche Charakter des Platzes zeigt sich in liebevoll gestalteten Details und einer herzlichen, entspannten Atmosphäre.",
+      image: { src: `${IMG}/gallery-31c91c901c.webp`, alt: "Dekoratives Abend-Highlight am Campingclub Hinterberg: beleuchtete Skulptur als persönliche Geste der Gastgeber" },
     },
     {
       title: "Mitten im Grünen",
@@ -62,11 +62,6 @@ const campingclubHinterberg: CampsiteConfig = {
 
   hero: {
     aerial: { src: `${IMG}/gallery-36291c6821.webp`, alt: "Wohnwagen und Zelte auf der Wiese vor grünen Bergen am Campingclub Hinterberg" },
-  },
-
-  breather: {
-    image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Belebter Campingclub Hinterberg mit Zelten und Caravans vor den grünen Bergen" },
-    line: "Durchatmen, wo die Stadt aufhört und das Grün beginnt.",
   },
 
   camping: {
