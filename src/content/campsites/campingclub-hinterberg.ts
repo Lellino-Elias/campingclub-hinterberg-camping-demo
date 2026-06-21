@@ -38,7 +38,7 @@ const campingclubHinterberg: CampsiteConfig = {
     {
       title: "Familiäre Atmosphäre",
       text: "Seit Generationen familiengeführt — der persönliche Charakter des Platzes zeigt sich in der herzlichen, entspannten Atmosphäre und im lebendigen Miteinander der Gäste.",
-      image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Lebhafter Abend am Campingclub Hinterberg mit Zelten, Wohnwagen und Gästen auf der Wiese vor den Bergen" },
+      image: { src: `${IMG}/gallery-c80bde25f4.webp`, alt: "Gepflegter Campingclub Hinterberg mit Wohnmobil, bunten Blumenpflanzungen und grünem Bergwald dahinter" },
     },
     {
       title: "Mitten im Grünen",
@@ -87,12 +87,12 @@ const campingclubHinterberg: CampsiteConfig = {
       {
         title: "Dauercamping",
         text: "Manche bleiben länger: Dauerplätze lassen sich wie ein kleiner Garten gestalten — frag einfach nach, solange freie Plätze reichen.",
-        image: { src: `${IMG}/gallery-31c91c901c.webp`, alt: "Liebevoll gestaltete Ecke am Campingclub Hinterberg mit warmem Abendlicht und Holzhütte" },
+        image: { src: `${IMG}/gallery-1ce2577d68.webp`, alt: "Oldtimer-Reisemobil und orangefarbener Bus auf dem Campingclub Hinterberg vor bewaldeten Bergen" },
       },
       {
         title: "Ruhig zwischen den Bergen",
         text: "Umgeben von grünen Bergen und Wald liegst du hier ruhig und doch nah an Leoben — ein guter Ausgangspunkt für Touren in die Region.",
-        image: { src: `${IMG}/gallery-c80bde25f4.webp`, alt: "Ruhiger Campingclub Hinterberg, eingebettet in die grünen Berge bei Leoben" },
+        image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Blick auf den lebendigen Campingclub Hinterberg mit Zelten, Wohnwagen und den bewaldeten Bergen dahinter" },
       },
     ],
   },
