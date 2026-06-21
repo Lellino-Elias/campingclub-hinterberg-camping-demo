@@ -31,14 +31,14 @@ const campingclubHinterberg: CampsiteConfig = {
 
   pillars: [
     {
-      title: "Saubere Sanitäranlagen",
-      text: "Saubere Sanitäranlagen mit heißem Wasser, Duschen und Toiletten — gepflegt und jederzeit geöffnet für alle Gäste am Platz.",
-      image: { src: `${IMG}/gallery-8a5a68ee0f.webp`, alt: "Gepflegte Sanitäranlage mit Waschbecken, Spiegel und Duschkabinen am Campingclub Hinterberg" },
+      title: "Gepflegter Campingplatz",
+      text: "Liebevoll angelegte Stellplätze auf grüner Wiese, eingebettet in die Natur rund um Leoben — gepflegt, ruhig und mit persönlichem Charakter.",
+      image: { src: `${IMG}/gallery-d37de1ed38.webp`, alt: "Blick von oben auf den Campingclub Hinterberg mit Oldtimer-Wohnwagen und Traktor auf gepflegtem grünem Rasen" },
     },
     {
       title: "Familiäre Atmosphäre",
       text: "Seit Generationen familiengeführt — der persönliche Charakter des Platzes zeigt sich in der herzlichen, entspannten Atmosphäre und im lebendigen Miteinander der Gäste.",
-      image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Belebter Campingclub Hinterberg mit Zelten, Wohnwagen und Gästen auf der grünen Wiese vor den Bergen" },
+      image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Lebhafter Abend am Campingclub Hinterberg mit Zelten, Wohnwagen und Gästen auf der Wiese vor den Bergen" },
     },
     {
       title: "Mitten im Grünen",
@@ -87,7 +87,7 @@ const campingclubHinterberg: CampsiteConfig = {
       {
         title: "Dauercamping",
         text: "Manche bleiben länger: Dauerplätze lassen sich wie ein kleiner Garten gestalten — frag einfach nach, solange freie Plätze reichen.",
-        image: { src: `${IMG}/gallery-1ce2577d68.webp`, alt: "Individuell ausgebaute Reisefahrzeuge am Campingclub Hinterberg" },
+        image: { src: `${IMG}/gallery-31c91c901c.webp`, alt: "Liebevoll gestaltete Ecke am Campingclub Hinterberg mit warmem Abendlicht und Holzhütte" },
       },
       {
         title: "Ruhig zwischen den Bergen",
@@ -137,7 +137,7 @@ const campingclubHinterberg: CampsiteConfig = {
     tag: "Mai bis Mitte September",
     moreCount: 12,
     images: [
-      { src: `${IMG}/gallery-276b1bd215.webp`, alt: "Ausgebautes Oldtimer-Fahrzeug als Reisemobil am Campingclub Hinterberg" },
+      { src: `${IMG}/gallery-276b1bd215.webp`, alt: "Markanter Oldtimer-LKW auf der sonnigen grünen Wiese des Campingclub Hinterberg vor bewaldeten Bergen" },
       { src: `${IMG}/gallery-878535172f.webp`, alt: "Bunte Oldtimer-Reisebusse auf dem Campingclub Hinterberg vor grünen Bergen" },
     ],
   },
