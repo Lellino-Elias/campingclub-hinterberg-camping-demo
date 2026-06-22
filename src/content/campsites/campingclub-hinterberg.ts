@@ -90,9 +90,9 @@ const campingclubHinterberg: CampsiteConfig = {
         image: { src: `${IMG}/gallery-1ce2577d68.webp`, alt: "Oldtimer-Reisemobil und orangefarbener Bus auf dem Campingclub Hinterberg vor bewaldeten Bergen" },
       },
       {
-        title: "Ruhig zwischen den Bergen",
-        text: "Umgeben von grünen Bergen und Wald liegst du hier ruhig und doch nah an Leoben — ein guter Ausgangspunkt für Touren in die Region.",
-        image: { src: `${IMG}/gallery-65c2732b77.webp`, alt: "Blick auf den lebendigen Campingclub Hinterberg mit Zelten, Wohnwagen und den bewaldeten Bergen dahinter" },
+        title: "Saubere Sanitäranlagen",
+        text: "Gepflegte, saubere Sanitäranlagen mit Duschen, Waschbecken und liebevollen Details — gut gewartet und immer ordentlich.",
+        image: { src: `${IMG}/gallery-8a5a68ee0f.webp`, alt: "Gepflegte Sanitäranlage am Campingclub Hinterberg mit Waschbecken, Duschen und dekorativen Details" },
       },
     ],
   },
@@ -162,7 +162,7 @@ const campingclubHinterberg: CampsiteConfig = {
     tel: "+43 384 222 782",
     telHref: "tel:+43384222782",
     mail: "campingclubleobenhinterberg@gmx.at",
-    adresse: "Hinterbergstraße 47 · 8700 Leoben · Steiermark",
+    adresse: "Hinterbergstraße 57 · 8700 Leoben · Steiermark",
     coords: { lat: 47.361220, lng: 15.065600 },
   },
 
